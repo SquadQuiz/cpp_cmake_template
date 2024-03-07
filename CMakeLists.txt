@@ -11,7 +11,7 @@ set(PROJ_PATH                       ${CMAKE_CURRENT_SOURCE_DIR})
 #
 # Core project settings
 #
-project(PROJECT_X)
+project(PROJECT_NAME_HERE)
 enable_language(C CXX ASM)
 set(EXECUTABLE                      ${CMAKE_PROJECT_NAME})
 
